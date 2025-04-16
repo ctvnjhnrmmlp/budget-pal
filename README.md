@@ -1,13 +1,13 @@
-# BudgetPal
+# Budget Pal
 
 **Smart Expense Tracker w/ Data Insights**
 
 > _"Classic, but elevated."_
-> BudgetPal helps you take control of your finances by combining intuitive daily budgeting with visual data insights and smart suggestions — all in a sleek, user-friendly interface.
+> Budget Pal helps you take control of your finances by combining intuitive daily budgeting with visual data insights and smart suggestions — all in a sleek, user-friendly interface.
 
 ## Overview
 
-**BudgetPal** is a modern web-based expense tracker that simplifies personal finance management through easy expense logging, intelligent budgeting goals, and insightful analytics.
+**Budget Pal** is a modern web-based expense tracker that simplifies personal finance management through easy expense logging, intelligent budgeting goals, and insightful analytics.
 
 ### Solves:
 
@@ -26,9 +26,9 @@
 - Uses visualizations to drive actionable insights
 - Optionally enhanced with OpenAI for intelligent suggestions
 
-## Why BudgetPal?
+## Why Budget Pal?
 
-Most finance apps are either too complex or too basic. BudgetPal bridges the gap by focusing on:
+Most finance apps are either too complex or too basic. Budget Pal bridges the gap by focusing on:
 
 - **Simplicity** – Easy daily expense input and target setting
 - **Intelligence** – Smart suggestions based on patterns or AI
@@ -72,8 +72,8 @@ Most finance apps are either too complex or too basic. BudgetPal bridges the gap
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/budgetpal.git
-cd budgetpal
+git clone https://github.com/your-username/budget-pal.git
+cd budget-pal
 npm install
 ```
 
